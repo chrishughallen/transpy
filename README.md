@@ -1,6 +1,6 @@
 # transpy
 
-A simple python app to translate English and French
+<b>A simple python app to translate English and French</b>
 
 In order to run locally you will need Selenium installed.
 
