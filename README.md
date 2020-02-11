@@ -4,7 +4,7 @@
 
 In order to run locally you will need Selenium installed.
 
-Navigate to the directory in a terminal and run one of he following command.
+Navigate to the directory in a terminal and run one of the following commands.
 
 <i>python transpy.py en "The english you want translated to French"</i>
 
